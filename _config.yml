@@ -13,12 +13,12 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Gh0st Blog # the main title
+title: 404Gh0st Blog # the main title
 
 tagline: CTFs and other stuff # it will display as the sub-title
 
@@ -38,7 +38,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Agus Prasetyo
-  email: example@domain.com # change to your email address
+  email: desyo651@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
