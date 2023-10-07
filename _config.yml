@@ -61,9 +61,6 @@ google_site_verification: google7f8fbf8c4327181c.html
 google_analytics:
   id: # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path: # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -188,11 +185,11 @@ exclude:
   - "*.gem"
   - "*.gemspec"
   - tools
+  - docs
   - README.md
   - CHANGELOG.md
   - LICENSE
   - rollup.config.js
-  - node_modules
   - package*.json
 
 jekyll-archives:
